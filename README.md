@@ -49,9 +49,9 @@ I look forward to getting to know you and getting started together! :rocket:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kerber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kerber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=g-kerber&theme=dark&hide_border=false)<br/>
- profilve visitors: ![view since 2024/11/25](https://visitor-badge-deno.deno.dev/G-Kerber.G-Kerber.svg)
+profilve visitors: ![view since 2024/11/25](https://visitor-badge-deno.deno.dev/G-Kerber.G-Kerber.svg)
 
 <!--
 **G-Kerber/G-Kerber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
